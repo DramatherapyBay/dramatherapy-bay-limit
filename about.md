@@ -20,28 +20,6 @@ I have extensive experience working with:
 - **Emotionally Unstable Personality Disorder (EUPD)**
 - **Older adults with dementia**
 
-## Treatment Approaches
-
-### Dramatherapy
-Using drama, role-play, and creative storytelling to explore emotions and develop coping strategies in a safe, supportive environment.
-
-### CBT-T (Cognitive Behavioral Therapy) for Eating Disorders 
-A structured, evidence-based and time-sensitive approach designed to target the core mechanisms that maintain disordered eating behaviors.This 10-session model offers effective treatment for eating disorders. 
-
-Therapy focuses on:
-Reducing dietary restraint and body image disturbance
-Challenging unhelpful beliefs and cognitive distortions
-Building emotional regulation and behavioral flexibility
-Supporting long-term recovery through relapse prevention
-Delivered in a compassionate, collaborative setting, CBT-Ten empowers clients to break free from the cycle of disordered eating and reclaim psychological well-being.
-
-### GSH (Guided Self-Help)
-Empowering clients with practical tools for managing eating disorders and building healthy relationships with food and body image.
-
-### Play-Based Therapy
-Particularly effective for individuals with ASD and developmental delays, using play as a natural medium for expression and learning.
-
-## Beyond Therapy
 
 I'm passionate about community involvement and maintain an active lifestyle including:
 - Taekwondo (I'm also a registered coach and referee!)
