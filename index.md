@@ -37,7 +37,7 @@ I am Lily Lau, a HCPC registered Arts Therapist (Dramatherapist) based in Cambri
 
 ## Ready to Begin Your Journey?
 
-**Free 20-minute consultation available**
+**Free 15-minute consultation available**
 
 📧 **Email:** dramatherapyw@gmail.com  
 📱 **Phone:** +44 7517605713  
