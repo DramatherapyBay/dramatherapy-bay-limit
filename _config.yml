@@ -1,0 +1,31 @@
+title: Dramatherapy Bay Limit
+description: Professional dramatherapy services in Cambridge, UK. Healing through creative expression.
+author: Lily Lau
+email: dramatherapyw@gmail.com
+phone: "+44 7517605713"
+location: Cambridge, UK
+
+# Theme
+theme: minima
+
+# Navigation menu
+header_pages:
+  - about.md
+  - services.md
+  - resources.md
+  - contact.md
+
+# Social media (optional - add your links)
+minima:
+  social_links:
+    - { platform: email, user_url: "mailto:dramatherapyw@gmail.com" }
+
+# SEO
+url: "https://yourusername.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
