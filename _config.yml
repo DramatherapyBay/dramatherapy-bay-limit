@@ -12,7 +12,6 @@ theme: minima
 header_pages:
   - about.md
   - services.md
-  - resources.md
   - contact.md
 
 # Social media (optional - add your links)
